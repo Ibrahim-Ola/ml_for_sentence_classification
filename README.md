@@ -1,2 +1,2 @@
-# ml_for_sentence_classification
+# Sentence Classification
 This project compares various models and embeddings for sentence classification
