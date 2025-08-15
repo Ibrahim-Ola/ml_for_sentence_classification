@@ -1,2 +1,2 @@
 # Sentence Classification.
-This project compares various models and embeddings for sentence classification
+This project compares various models and embeddings for sentence classification.
